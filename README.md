@@ -20,3 +20,5 @@ document.write("<br>"+i+" * "+b+" = "+(i*b));
 </script>
 </body>
 </html>
+
+RAIDON > OBS: Este código em Java Script é uma tabuada que funciona em qualquer navegador. 
